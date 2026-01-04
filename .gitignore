@@ -1,0 +1,5 @@
+# Exclude agents.md
+agents.md
+
+# Exclude PDF files
+*.pdf
